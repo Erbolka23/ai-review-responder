@@ -1,0 +1,5 @@
+.venv/
+.env
+history.jsonl
+__pycache__/
+*.pyc
